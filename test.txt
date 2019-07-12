@@ -1,3 +1,5 @@
+git add <имя фалйа> - добвление файлов/файла в слепок состояния
 git checkout -b <branch_name> - создание ветки
+git branch -a - показать ветки
 
- git branch -a - показать ветки
+safasdfsdf
